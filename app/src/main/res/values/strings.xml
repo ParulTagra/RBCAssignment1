@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RBCAssignment</string>
+    <string name="dollar_sign">$</string>
+    <string name="accounts">Accounts</string>
+    <string name="balance">Balance</string>
+    <string name="transactions">Transactions</string>
+    <string name="no_transactions">No Transactions Yet!</string>
+    <string name="credit_card_transactions">Credit Card Transactions</string>
+    <integer name="slide_animation_duration">500</integer>
+</resources>
